@@ -1,0 +1,31 @@
+id: PB224FC0E
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA20414
+  instance_id: http://purl.bdrc.io/resource/IE20414
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བརྡ་སྤྲོད་གསལ་བྱེད་ངག་སྒྲོན།
+  alt_title:
+    zh-latn-wadegile:
+    - tsang yu yu fa ming teng
+  author: http://purl.bdrc.io/resource/P6256
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    74611731f56d435594431aaac00fd3ee:
+      title: པོད ༡་བརྡ་སྤྲོད་གསལ་བྱེད་ངག་སྒྲོན
+      volume_number: 1
+      base_file: UT20414_5680_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7B41A2BF108A1CB4
+      image_group: '5680'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW20414
+  - http://purl.bdrc.io/resource/W20414
+  ocr_software: Namsel
+created_at: '2021-12-22T11:05:22.067057'
+last_modified_at: '2021-12-22T11:05:22.067063'
